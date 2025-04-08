@@ -1,0 +1,32 @@
+{
+  "goods": [
+    {
+      "id": "1",
+      "name": "milk"
+    },
+    {
+      "id": "2",
+      "name": "bananas"
+    },
+    {
+      "id": "3",
+      "name": "icecream"
+    },
+    {
+      "id": "f90a",
+      "name": "pepperoni"
+    },
+    {
+      "id": "538c",
+      "name": "123"
+    },
+    {
+      "id": "f3b7",
+      "name": "1234521"
+    },
+    {
+      "id": "f690",
+      "name": "1"
+    }
+  ]
+}
